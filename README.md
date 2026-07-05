@@ -297,3 +297,4 @@ The results demonstrate that Linux scheduling balances fairness, responsiveness,
 ```
 
 ```
+Part of our Operating Systems curriculum
